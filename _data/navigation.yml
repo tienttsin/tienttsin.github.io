@@ -11,23 +11,23 @@ main:
   - title: "Contacts"
     url: /Contacts/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Information"
+    url: /Information/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Publication"
+    url: /Publication/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Our Team"
+    url: /Our Team/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "English Version"
+    url: /English Version/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
